@@ -1,0 +1,52 @@
+.border-1{
+    border: 1px solid black;
+    padding: 2% 2% 2% 2%;
+}
+
+.bod-up{
+    padding-left: 15%;
+}
+
+.c-bt{
+    margin-left: 85%;
+    
+}
+
+.sticky-top{
+    height: 5%;
+}
+
+.bod-down{
+    text-align: center;
+    padding : 2% 0;
+    
+}
+
+.border-2{
+    border: 1px solid black;
+}
+
+.table{
+    margin: 2% 0;
+    padding: 0 2%;
+}
+
+ @media screen and (max-width: 997px) {
+   .c-bt{
+    margin-top: -4rem;
+   }
+  }
+
+  @media screen and (max-width: 414px) {
+    .c-bt{
+     margin-top: -4rem;
+     margin-left: 75%;
+    }
+   }
+ 
+
+
+
+
+
+
